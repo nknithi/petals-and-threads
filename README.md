@@ -11,7 +11,7 @@ Petals & Threads is an e-commerce website project focused on providing a visuall
 
 ## Introduction
 
-The Front-End Development Capstone Project provides an opportunity to apply theoretical knowledge of web development to create a practical e-commerce website. Split into two phases, the project focuses on front-end development initially, with back-end implementation scheduled for later.
+The Front-End Development Project provides an opportunity to apply theoretical knowledge of web development to create a practical e-commerce website. Split into two phases, the project focuses on front-end development initially, with back-end implementation scheduled for later.
 
 ## Features
 
