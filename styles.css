@@ -1,0 +1,138 @@
+/* Resetting default styles for body and html elements */
+body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+
+
+/* Styling for brand name */
+.brand-name {
+  font-family: "Dancing Script";
+  font-weight: bolder;
+  text-shadow: 1px 1px rgba(220, 53, 69, 0.2);
+}
+
+/* Styling for slogan */
+.slogan {
+
+  font-family: "Indie Flower";
+  color: rgba(255, 255, 255, 0.8);
+}
+
+/* Styling for main menu items on hover and active states */
+.main-menu-item:hover {
+  background-color: #dc3545;
+}
+
+.main-menu-item:active {
+  background-color: #dc3545;
+}
+
+/* Styling for cart link on hover and active states */
+.cart:hover {
+  color: #6c757d;
+}
+
+.cart:active {
+  color: #6c757d;
+}
+
+.cart {
+  font-size: large;
+  color: #343a40;
+
+}
+
+
+/* Styling for footer menu items on hover and active states */
+.footer-menu-item:hover {
+  background-color: rgb(214, 214, 214);
+}
+
+
+.footer-menu-item:active {
+  background-color: rgb(214, 214, 214);
+}
+
+/* Styling for search button */
+#search-button {
+  background-color: #dc3545;
+  color: whitesmoke;
+}
+
+#search-button:hover {
+
+  color: black;
+  background-color: #ffc107;
+}
+
+/* Styling for card wrapper */
+.cards-wrapper {
+  display: flex;
+}
+
+
+
+/* Styling for card image */
+.card-image {
+  object-fit: cover;
+  height: 500px;
+}
+
+.home-card-image {
+  object-fit: cover;
+  height: 500px;
+}
+
+
+.product-card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.add-cart-button {
+  align-self: center;
+  margin-top: auto;
+}
+
+/* Additional styling for body and footer */
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+}
+
+/* Styling for cart image and input number */
+.cart-image {
+  width: 100px;
+}
+
+.input-number {
+  width: 50px;
+  background-color: #dc3545;
+}
+
+/* Dropdown menu styling on hover */
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}
+
+.category-heading {
+  font-family: "Dancing Script";
+
+}
+
+.sub-category-heading {
+  font-family: "Indie Flower";
+  font-size: x-large;
+
+}
